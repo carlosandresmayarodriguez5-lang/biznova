@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Natip",
+    "slug": "Natip",
+    "version": "1.0.0",
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
